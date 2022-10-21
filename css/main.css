@@ -359,18 +359,17 @@ li {
 
 .contact-me .text-me .touch {
   color: #a04300;
-  background: #fff;
   font-weight: 400;
   font-size: 16px;
   width: fit-content;
   padding: 14px;
   border-radius: 12px;
-  border-color: #a04300;
+  background-color: orange;
   align-self: center;
 }
 
 .contact-me .text-me .touch:hover {
-  color: #babfed;
+  color: orange;
   transform: translate(0, -2px);
 }
 
